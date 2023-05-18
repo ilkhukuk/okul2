@@ -3,4 +3,4 @@ hamburger menu with cool overlay animation using only html & css -no javascript-
 <h2>Used technologies</h2>
 Final custom animation methods with html and css
 <h2>screenshot</h2>
-![](screen.gif)
+![screenshot](screen.gif)
